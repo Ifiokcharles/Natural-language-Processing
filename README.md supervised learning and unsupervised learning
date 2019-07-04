@@ -1,5 +1,6 @@
 # Natural-language-Processing
 Take five different samples of Gutenberg digital books, that are of five different genres and authors, that are semantically different. Separate and set aside unbiased random partitions for training and test. 
+SUPERVISED LEARNING
 1. Run the from line 1 to line 272.
 2. Open "Error_locations" to assist with error analysis
 3. At line 282, pick the misclassified document you want to analyze by using "mislocs[i]"
@@ -15,3 +16,16 @@ author 4 = (800,1000)
 6. At line 339, indicate documents for the false positive author and ensure documents
    matches documents in line 287.
 7. Run code from line 273 to the end.
+
+
+UNSUPERVISED LEARNING
+
+1. Run the from line 1 to line 224.
+2. To run the PCA plot, run code from line 244 to 344.
+3. To check the error analysis run code from line 337 to 375
+4. To preformance evaluation test, run code from line 379 to 440
+
+'''pyLDAvis'''
+1. Open jupyter notebook
+1. Copy and paste the code on notebook from line 1 to 134 and run it.
+2. Then, copy and paste the code from line 228 to 241 and run it on notebook.
