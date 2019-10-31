@@ -1,4 +1,5 @@
 # Natural-language-Processing
+
 Take five different samples of Gutenberg digital books, that are of five different genres and authors, that are semantically different. 
 Separate and set aside unbiased random partitions for training and test.
 Download any five books of your choice from the Gitenburg websites and replace with the ones already in the code
@@ -19,7 +20,6 @@ author 4 = (800,1000)
 6. At line 339, indicate documents for the false positive author and ensure documents
    matches documents in line 287.
 7. Run code from line 273 to the end.
-
 
 UNSUPERVISED LEARNING
 
