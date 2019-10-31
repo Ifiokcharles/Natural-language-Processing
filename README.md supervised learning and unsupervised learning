@@ -2,6 +2,7 @@
 Take five different samples of Gutenberg digital books, that are of five different genres and authors, that are semantically different. 
 Separate and set aside unbiased random partitions for training and test.
 Download any five books of your choice from the Gitenburg websites and replace with the ones already in the code
+
 SUPERVISED LEARNING
 1. Run the from line 1 to line 272.
 2. Open "Error_locations" to assist with error analysis
